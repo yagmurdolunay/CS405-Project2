@@ -1,6 +1,5 @@
 # CS405-Project2
 
-### README for CS405 Project 2 - Tasks 1 and 2
 
 ---
 
@@ -43,8 +42,6 @@ The application should successfully render NPOT textures without errors, ensurin
 
 ### Task 2: Lighting Implementation
 
-#### Objective:
-Introduce basic lighting to the 3D scene, including ambient and diffuse lighting, and enable dynamic control over lighting parameters.
 
 #### Implementation Steps:
 
@@ -86,11 +83,9 @@ Introduce basic lighting to the 3D scene, including ambient and diffuse lighting
 
 6. **Dynamic Light Movement**:
    - Allow users to reposition the light source using arrow keys.
-
-#### Expected Outcome:
+  
+   
 The scene should exhibit realistic lighting effects with adjustable ambient intensity. Users should observe changes in light location and density dynamically.
-
----
 
 ### How to Run the Project
 
@@ -100,14 +95,9 @@ The scene should exhibit realistic lighting effects with adjustable ambient inte
    - Non-power-of-two textures using `leaves.jpg`.
    - Lighting effects by interacting with the ambient light slider and arrow keys.
 
----
-
 ### Notes
 
 - All modifications are in the `project2.js` file.
-- Ensure WebGL is supported on the browser for proper functionality.
-- Tasks 3 and 4 are not included in this README but can be implemented for additional functionality as described in the project instructions. 
+- Tasks 3 and 4 are not included.
 
---- 
 
-Feel free to adapt this template further based on additional insights or requirements.
